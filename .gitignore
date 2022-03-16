@@ -1,0 +1,7 @@
+﻿node_modules
+.DS_Store
+logs
+request.txt
+RoutesServer2.js
+.vscode
+.env
